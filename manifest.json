@@ -3,10 +3,12 @@
   "name": "v5.8.0 自动更新版",
   "notes": [
     "✅ 新增一键自动更新功能",
-    "✅ 修复了叙事记忆卡顿问题",
-    "✅ 优化了大模型调用速度"
+    "✅ 支持启动时自动检查",
+    "✅ 支持重要更新强制安装"
   ],
   "download_url": "https://github.com/oAlmili/novel-factory-updates/releases/download/v5.8.0/update_v5.8.0.zip",
-  "size": 0,
-  "release_date": "2026-06-25"
+  "size": 563KB,
+  "release_date": "2026-06-25",
+  "force_update": false,
+  "min_supported_version": "5.7.0"
 }
